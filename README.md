@@ -1,5 +1,5 @@
 # MTGMulligan
-Hello, This is a project for the UTSA Fall 2020 AI class.
+This is a project for the UTSA Fall 2020 AI class.
 
 The focus of this project is to allow other MTG programmers to test their decks with the Mulligan feature of the game. 
 Optimizing a mulligan is the first step to successful and more competitive gameplay.  
